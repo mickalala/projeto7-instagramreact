@@ -2,6 +2,7 @@ import Sidebar from "./Sidebar";
 import Stories from "./Stories";
 import Posts from "./Posts";
 
+
 export default function Corpo() {
     return (
         <div class="corpo">
